@@ -67,3 +67,7 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 ## License
 
 This project is licensed under the MIT License.
+## Improvements
+
+- Improved documentation clarity
+- Added better explanation for Next.js dApp usage
